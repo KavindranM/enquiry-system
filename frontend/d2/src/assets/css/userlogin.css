@@ -1,0 +1,37 @@
+body{
+    /* background-image: url("books.jpg"), url("books.jpg"); */
+    background-color:white;
+}
+
+
+/* .good{
+    height: 300px;
+    width: 150px;
+    background-color:whitesmoke;
+} */
+#box{
+
+    position:absolute;
+    float: left; 
+    bottom: 125px;
+    left: 100px;
+    background-color:whitesmoke;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+
+}
+input{
+    width: 250px;
+    padding: 10px;
+    
+}
+button{
+    height: 40px;
+    width: 175px;
+    
+}
+
+
+
+
