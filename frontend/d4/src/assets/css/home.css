@@ -1,0 +1,66 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  main section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .text {
+    flex: 1;
+  }
+  
+  .text p {
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  .topbox{
+      height: 200px;
+      width: 100%;
+      background: linear-gradient(to bottom right, #e153de, #c7fe7b);
+  }
+
+.p {
+  font-size: 50px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 80px;
+}
+.imgs{
+  align-content: center;
+  padding: 30px;
+}
+.coach{
+  height: 300px;
+}
